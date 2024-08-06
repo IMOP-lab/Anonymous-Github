@@ -1,17 +1,8 @@
 """
 Code for training and validation on multiple GPUs.
 
-IIIIIIIIIII   M       M      OOOOOOOOO      PPPPPPPPP   
-     I        MM     MM     O         O     P       P  
-     I        M M   M M    O           O    P       P  
-     I        M  M M  M   O             O   PPPPPPPPP  
-     I        M   M   M    O           O    P          
-     I        M       M     O         O     P          
-IIIIIIIIIII   M       M      OOOOOOOOO      P    
-
 Create on 2024-6-1 Saturday.
 
-@author: jjhuang and tyler
 """
 
 import torch
