@@ -2,18 +2,9 @@
 # You can modify the training and testing parameter Settings in this bash file
 
 # If you want to train the model, comment out the code for test and run the bash file,
-# And if you want to test the model, comment out the code for train and run the bash file.
-
-# IIIIIIIIIII   M       M      OOOOOOOOO      PPPPPPPPP   
-#      I        MM     MM     O         O     P       P  
-#      I        M M   M M    O           O    P       P  
-#      I        M  M M  M   O             O   PPPPPPPPP  
-#      I        M   M   M    O           O    P          
-#      I        M       M     O         O     P          
-# IIIIIIIIIII   M       M      OOOOOOOOO      P       
+# And if you want to test the model, comment out the code for train and run the bash file.     
 
 # Create on 2024-6-1 Saturday.
-# @author: jjhuang and tyler
 
 
 ### Initial hyperparameter
