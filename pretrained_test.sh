@@ -2,16 +2,7 @@
 # you can test on the specified data set using the pre-trained model weights in the ./pretrained_models.
 # The pre-training weights are the weights of the uC3DU-Net model.
 
-# IIIIIIIIIII   M       M      OOOOOOOOO      PPPPPPPPP   
-#      I        MM     MM     O         O     P       P  
-#      I        M M   M M    O           O    P       P  
-#      I        M  M M  M   O             O   PPPPPPPPP  
-#      I        M   M   M    O           O    P          
-#      I        M       M     O         O     P          
-# IIIIIIIIIII   M       M      OOOOOOOOO      P          
-
 # Create on 2024-6-1 Saturday.
-# @author: jjhuang and tyler
 
 
 ### Initial hyperparameter
