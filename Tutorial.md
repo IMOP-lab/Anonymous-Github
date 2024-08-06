@@ -18,13 +18,17 @@ source activate 3dseg
 """
 
 Alternatively, you can install the required conda environment from the 'environment.yaml' file by:
+
 """
 conda create -f environment.yaml
 """
+
 Notice that you need to replace 'prefix: /home/user/anaconda3/envs/3dseg' with your virtual environment path in the 'environment.yaml',and you can rename the created virtual environment.
 
 Install [pytorch, torchvision, torchaudio](https://pytorch.org/get-started/previous-versions/) (it depends on your nvidia driver and your cuda version)
+
 We use torch==2.0.0, torchvision==0.15.1, torchaudio==2.0.1 for cuda 11.8.
+
 You can install by:
 """
 pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
