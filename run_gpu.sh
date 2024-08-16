@@ -30,7 +30,7 @@ torchrun --nproc_per_node=1 --master_port=29500 ./train.py \
     --lr 0.0001 \
     --optim AdamW \
     --max_iter 80000 \
-    --eval_step 1 \
+    --eval_step 1000 \
     --cache_rate 0 \
     --num_workers 16 \
     --world_size 1 \
